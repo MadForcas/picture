@@ -1,6 +1,6 @@
 
 function showGallery(){
-    $(".gallery").fadeIn("slow");
+    $(".gallery").fadeIn(1500);
 }
 
 
